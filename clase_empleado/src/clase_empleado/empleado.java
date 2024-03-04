@@ -8,7 +8,7 @@ package clase_empleado;
  *
  * @author Yahir
  */
-public class empleado {
+public class Empleado {
     
     private String nombre;
     private String apellido;
