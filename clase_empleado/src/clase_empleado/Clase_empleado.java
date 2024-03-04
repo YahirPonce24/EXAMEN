@@ -15,11 +15,8 @@ public class Clase_empleado {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        empleado E1 = new empleado();
-        
-        
-        
+        Empleado empleadoEj = new Empleado("Maximiliano", "Bernal", "Pacheco y jj calvo 666", 2020, 1000);
+        empleadoEj.imprimirDatos();
         
     }
     
